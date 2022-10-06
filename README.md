@@ -1,5 +1,5 @@
 <h1 align="center">
-    App-Recipes 🥗🍖
+    App de Receitas 🥗🍖
 </h1>
 <h3 align="center"> 
   🚧  Finalizado  🚧
@@ -16,17 +16,10 @@
     Aplicativo mobile de receitas onde o usuário podera fazer cadastro e login, além de ver diversas receitas.
     O projeto foi desenvolvido ultilizando React Native com expo, firebase Database e Authentication.
 
- ### ✅ Demonstração (Mobile) 📲
+ ### ✅ Demonstração 📲
 <p align="center">
    <img src="demonstração.gif"> 
 </p>
-
-
-### ⚙ Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[Expo](https://docs.expo.dev/) e/ou [Yarn](https://yarnpkg.com/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
 ### 📗 Rodando a Aplicação
@@ -41,8 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## 🚀 Bibliotecas usadas
 
-### Front-end 
-* React
+### Front-end
 * ReactNative
 * Expo
 * JavaScript
@@ -51,14 +43,5 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 *  Firebase
 *  Cloud Firestore
 *  Authentication
-
-<hr/>
-
-## 🧑‍💻 Project
-
-    Mobile application of recipes where the user can register and login, and see several recipes.
-    The project was developed using React Native with expo, firebase Database and Authentication.
-
-<hr/>
 
 Feito Por Felipe Sousa
