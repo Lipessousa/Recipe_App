@@ -18,7 +18,7 @@
 
  ### ✅ Demonstração (Mobile) 📲
 <p align="center">
-   <img src=".github/demonstração.gif"> 
+   <img src="demonstração.gif"> 
 </p>
 
 
