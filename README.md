@@ -16,11 +16,7 @@
     Aplicativo mobile de receitas onde o usuário podera fazer cadastro e login, além de ver diversas receitas.
     O projeto foi desenvolvido ultilizando React Native com expo, firebase Database e Authentication.
 
- ### ✅ Demonstração 📲
-<p align="center">
-   <img src="demonstração.gif"> 
-</p>
-
+ 
 
 ### 📗 Rodando a Aplicação
 
@@ -42,6 +38,4 @@
 ### Back-end
 *  Firebase
 *  Cloud Firestore
-*  Authentication
-
 Feito Por Felipe Sousa
